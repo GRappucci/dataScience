@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1565185563253.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2777148289",
+    "id" : "E94A3DF2",
+    "lastKnownWriteTime" : 1565187166,
+    "last_content_update" : 1565187166497,
+    "path" : "C:/Users/student/Desktop/gits/dataScience/Scripts/source_file.R",
+    "project_path" : "Scripts/source_file.R",
+    "properties" : {
+        "cursorPosition" : "7,6",
+        "docOutlineVisible" : "0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
